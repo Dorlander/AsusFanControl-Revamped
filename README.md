@@ -10,4 +10,5 @@ GUI: `AsusFanControlGUI.exe`
 
 Confirmed compatibility: 
 - ASUS FX705DY
+
 Original git: https://github.com/Karmel0x
