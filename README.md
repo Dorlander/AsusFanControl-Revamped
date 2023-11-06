@@ -11,4 +11,4 @@ GUI: `AsusFanControlGUI.exe`
 Протестировано на: 
 - ASUS FX705DY
 
-Оригинал исходного кода: https://github.com/Karmel0x
+Исходный код: https://github.com/Karmel0x
