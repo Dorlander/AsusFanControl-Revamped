@@ -8,7 +8,7 @@ GUI: `AsusFanControlGUI.exe`
 
 -Добавлено автообновление скорости кулеров
 
-Confirmed compatibility: 
+Протестировано на: 
 - ASUS FX705DY
 
-Original git: https://github.com/Karmel0x
+Оригинал исходного кода: https://github.com/Karmel0x
